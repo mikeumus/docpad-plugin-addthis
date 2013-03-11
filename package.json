@@ -1,8 +1,8 @@
 {
   "name": "docpad-plugin-addthis",
   "version": "2.0.0",
-  "description": "Facebook Comments feature.",
-  "homepage": "https://github.com/mikeumus/docpad-plugin-comments",
+  "description": "AddThis Docpad getBlock codes.",
+  "homepage": "https://github.com/mikeumus/docpad-plugin-addthis.git",
   "keywords": [
     "docpad",
     "docpad-plugin",
@@ -29,11 +29,11 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/mikeumus/docpad-plugin-gdocs/issues"
+    "url": "https://github.com/mikeumus/docpad-plugin-addthis.git/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mikeumus/docpad-plugin-gdocs"
+    "url": "https://github.com/mikeumus/docpad-plugin-addthis.git"
   },
   "engines": {
     "node": "0.8.x",
