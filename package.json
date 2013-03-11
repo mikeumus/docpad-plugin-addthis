@@ -1,0 +1,47 @@
+{
+  "name": "docpad-plugin-addthis",
+  "version": "2.0.0",
+  "description": "Facebook Comments feature.",
+  "homepage": "https://github.com/mikeumus/docpad-plugin-comments",
+  "keywords": [
+    "docpad",
+    "docpad-plugin",
+    "addthis",
+    "sharing", "share"
+  ],
+  "author": {
+    "name": "MDM Inc",
+    "email": "sales@mdm.cc",
+    "url": "http://mdm.cm"
+  },
+  "maintainers": [
+    {
+      "name": "Michael Mooring",
+      "email": "mike@mdm.cm",
+      "url": "http://mdm.cm"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Michael Mooring",
+      "email": "mike@mdm.cm",
+      "url": "http://mdm.cm"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/mikeumus/docpad-plugin-gdocs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikeumus/docpad-plugin-gdocs"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "docpad": "6.25"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "main": "./addthis.plugin.coffee"
+}
