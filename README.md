@@ -1,0 +1,2 @@
+docpad-plugin-addthis
+=====================
