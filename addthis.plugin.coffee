@@ -1,11 +1,11 @@
 # Export
 module.exports = (BasePlugin) ->
 	# Define
+		# Config
 	class addThisPlugin extends BasePlugin
 		# Name
 		name: 'addthis'
 
-		# Config
 		config:
 			blockAddThisFloating: """
 				<!-- AddThis Button BEGIN -->
@@ -29,8 +29,10 @@ module.exports = (BasePlugin) ->
 			# getFbSdkBlock
 			templateData.getFloatingAddThisBlock = ->
 				@referencesOthers()
-				return config.blockAddThisFloating
+				'blockAddThisFloating': config.blockAddThisFloating
+				'floatRight': config.floatRight
+				'floatLe'
 
-		
+
 			# Chain
 			@
