@@ -1,13 +1,16 @@
 {
   "name": "docpad-plugin-addthis",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "AddThis Docpad getBlock codes.",
   "homepage": "https://github.com/mikeumus/docpad-plugin-addthis.git",
   "keywords": [
     "docpad",
     "docpad-plugin",
     "addthis",
-    "sharing", "share"
+    "sharing",
+    "share", "bookmark", "follow", "bookmarking", "social-plugins",
+    "twitter-buttons", "facebook-buttons", "pinterest-button", "google+-button", "share-buttons",
+    "sharing-buttons", "link-box"
   ],
   "author": {
     "name": "MDM Inc",
@@ -39,9 +42,10 @@
     "node": "0.8.x",
     "docpad": "6.25"
   },
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
-  "main": "./addthis.plugin.coffee"
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "./addthis.plugin.coffee",
+  "readmeFilename": "README.md",
+  "_id": "docpad-plugin-addthis@2.0.1",
+  "_from": "docpad-plugin-addthis@"
 }
