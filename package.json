@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-addthis",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "AddThis Docpad getBlock codes for all 7 available widgets.",
   "homepage": "https://github.com/mikeumus/docpad-plugin-addthis.git",
   "keywords": [
