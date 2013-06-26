@@ -39,8 +39,8 @@
     "url": "https://github.com/mikeumus/docpad-plugin-addthis.git"
   },
   "engines": {
-    "node": "0.8.x",
-    "docpad": "6.25"
+    "node": ">=0.8.x",
+    "docpad": "6.x"
   },
   "dependencies": {},
   "devDependencies": {},
