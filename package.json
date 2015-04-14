@@ -26,9 +26,6 @@
     "email": "sales@mdm.cc",
     "url": "http://mdm.cm"
   },
-  "scripts": {
-    "prepublish": "cake compile"
-  },
   "maintainers": [
     {
       "name": "Michael Mooring",
