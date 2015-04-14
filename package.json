@@ -48,7 +48,7 @@
     "docpad": "6",
     "projectz": "^0.5.0"
   },
-  "main": "./addthis.plugin.js",
+  "main": "./out/addthis.plugin.js",
   "readmeFilename": "README.md",
   "_id": "docpad-plugin-addthis@2.0.2",
   "_from": "docpad-plugin-addthis@",
