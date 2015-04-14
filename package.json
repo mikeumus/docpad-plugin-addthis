@@ -40,6 +40,11 @@
       "url": "http://mdm.cm"
     }
   ],
+  "badges": {
+    "travis": true,
+    "npm": true,
+    "npmdownloads": true
+  },
   "bugs": {
     "url": "https://github.com/mikeumus/docpad-plugin-addthis.git/issues"
   },
