@@ -1,6 +1,6 @@
 {
   "name": "docpad-plugin-addthis",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "AddThis Docpad getBlock codes for all 7 available widgets.",
   "homepage": "https://github.com/mikeumus/docpad-plugin-addthis.git",
   "keywords": [
@@ -27,7 +27,6 @@
     "url": "http://mdm.cm"
   },
   "scripts": {
-    "build": "cake compile",
     "prepublish": "cake compile"
   },
   "maintainers": [
