@@ -43,9 +43,16 @@
     "docpad": "6.x"
   },
   "dependencies": {},
-  "devDependencies": {},
-  "main": "./addthis.plugin.coffee",
+  "devDependencies": {
+    "coffee-script": "^1.9.1",
+    "docpad": "6",
+    "projectz": "^0.5.0"
+  },
+  "main": "./addthis.plugin.js",
   "readmeFilename": "README.md",
   "_id": "docpad-plugin-addthis@2.0.2",
-  "_from": "docpad-plugin-addthis@"
+  "_from": "docpad-plugin-addthis@",
+  "cakeConfiguration": {
+    "COFFEE_SRC_PATH": "src"
+  }
 }
