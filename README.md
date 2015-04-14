@@ -1,6 +1,6 @@
 # docpad-plugin-addthis
 
-[![Build Status](https://img.shields.io/travis/electblake/docpad-plugin-addthis/master.svg)](http://travis-ci.org/lectblake/docpad-plugin-addthis "Check this project's build status on TravisCI")
+[![Build Status](https://travis-ci.org/electblake/docpad-plugin-addthis.svg?branch=master)](http://travis-ci.org/lectblake/docpad-plugin-addthis "Check this project's build status on TravisCI")
 
 
 All seven available addthis.com widget types. See: https://www.addthis.com/get/sharing#.UT-UARy9JG0
