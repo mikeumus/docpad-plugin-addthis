@@ -1,5 +1,7 @@
-docpad-plugin-addthis
-=====================
+# docpad-plugin-addthis
+
+[![Build Status](https://travis-ci.org/electblake/docpad-plugin-addthis.svg?branch=master)](http://travis-ci.org/lectblake/docpad-plugin-addthis "Check this project's build status on TravisCI")
+
 
 All seven available addthis.com widget types. See: https://www.addthis.com/get/sharing#.UT-UARy9JG0
 
